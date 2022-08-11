@@ -1,6 +1,7 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: "Ecco i nostri Lunch and Learn "
+subtitle: Cerca l'argomento che ti interessa usando le nostre categorie o i nomi
+  dei relatori e guarda le registrazioni che vuoi!
 image: img/cascate.jpg
 blurb:
   heading: Why Kaldi?
