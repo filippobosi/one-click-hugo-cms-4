@@ -1,7 +1,7 @@
 ---
 title: Primo Post D@n
 date: 2022-08-11T14:10:41.251Z
-description: qualcosa di me
+description: Qualcosa di me?
 image: img/oceano.jpg
 ---
 Lo vedete quel puntino nero sulla sinistra?
