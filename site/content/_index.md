@@ -1,10 +1,10 @@
 ---
 title: "Ecco i nostri Lunch and Learn "
-subtitle: Cerca l'argomento che ti interessa usando le nostre categorie o i nomi
-  dei relatori e guarda le registrazioni che vuoi!
+subtitle: Visualizza l'elenco
 image: img/cascate.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Cerca l'argomento che ti interessa, usa le categorie o i nomi dei
+    relatori, e guarda le registrazioni che vuoi!
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
